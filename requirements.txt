@@ -1,6 +1,9 @@
-streamlit==1.35.0
-pandas==2.2.2
-scikit-learn==1.4.2
-xgboost==2.0.3
-nltk==3.8.1
-matplotlib==3.8.4
+streamlit
+numpy
+pandas
+scikit-learn
+xgboost
+nltk
+matplotlib
+seaborn
+imbalanced-learn
