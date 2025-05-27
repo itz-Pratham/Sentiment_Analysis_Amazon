@@ -18,7 +18,7 @@ A machine learning project that analyzes customer reviews from the Amazon Alexa 
 
 ## 🗂️ Dataset
 
-The dataset used is the [Amazon Alexa Reviews dataset](https://www.kaggle.com/datasets/furiousx7/amazon-alexa-reviews), which contains:
+The dataset used is the [Amazon Alexa Reviews dataset](https://github.com/itz-Pratham/Sentiment_Analysis_Amazon/blob/main/Data/amazon_alexa.tsv), which contains:
 
 * `verified_reviews`: Customer review text
 * `feedback`: Target variable (1 = positive, 0 = negative)
@@ -78,7 +78,7 @@ The dataset used is the [Amazon Alexa Reviews dataset](https://www.kaggle.com/da
 
 ## 🙌 Acknowledgements
 
-* Dataset from [Kaggle](https://www.kaggle.com/datasets/furiousx7/amazon-alexa-reviews)
+* Dataset from [Kaggle](https://github.com/itz-Pratham/Sentiment_Analysis_Amazon/blob/main/Data/amazon_alexa.tsv)
 * Inspired by real-world sentiment analysis applications.
 
 ---
